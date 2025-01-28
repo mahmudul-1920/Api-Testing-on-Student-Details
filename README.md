@@ -60,7 +60,7 @@ This project demonstrates API testing using Postman, providing a collection of t
 
 ## Test Case Scenarios:
 
- ## _**2. Get Student Details **_
+ ## _**1. Get Student Details **_
 ### Request URL: https://thetestingworldapi.com/api/studentsDetails
 ### Request Method: GET
 ### Response Body:
@@ -90,7 +90,7 @@ This project demonstrates API testing using Postman, providing a collection of t
     ]
 
 
-## _**1. Create Student **_
+## _**2. Create Student **_
 
 ### Request URL: https://thetestingworldapi.com/api/studentsDetails
 ### Request Method: POST
@@ -115,7 +115,7 @@ Response: {
 
 
 ```
- ## _**2. Get Student Details by id **_
+ ## _**3. Get Student Details by id **_
 ### Request URL: https://thetestingworldapi.com/api/studentsDetails/{{id}}
 ### Request Method: GET
 ### Response Body:
