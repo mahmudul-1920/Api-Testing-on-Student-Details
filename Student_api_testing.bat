@@ -1,0 +1,1 @@
+newman run Student.postman_collection.json -e Students_Environment.postman_environment.json -r cli,htmlextra
